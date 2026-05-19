@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+body {background:beige}
+
+#logo {float:left;}
+#icon {float:right;}
+
+#menu {clear:both;border-top:solid black 1px; border-bottom:solid black 1px;}
+
+#menu a {font-family:Baskerville; word-spacing:30px; text-decoration-line:none; color:black;}
+
+#menu a:hover {color:orange;}
+
+#welcome {font-family:constantia; color:orange; border-bottom:solid black 1px;}
+
+#News {float:right; width:300px;}
+
+#News h3 {color:orange;}
+
+#small_pictures {float:left; width:600px;}
+
+#copyright {clear:both; text-align:center; border-top:solid black 1px;}
+
+
+#kotak {background-color:white; width:900px; margin:0px auto 0px auto;}
+
+#Text {float:left; width:600px}
+
+#boxes{backround-color:lightgray; display:flex; justify-content:center;
+gap:20px; padding:30px; margin: 0px auto 0px auto;}
+
+
+
+
+
